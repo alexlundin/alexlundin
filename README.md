@@ -1,11 +1,10 @@
 Header
 
 About Me
+
 ## I'm a beginner Software Engineer
 
-[comment]: <> (Projects)
-
-###Language and Tools
+### Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F9E64A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
@@ -16,7 +15,8 @@ About Me
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=339933)
 
-###Follow Me
+### Follow Me
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
 ![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
 ![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4680C2)
