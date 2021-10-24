@@ -17,9 +17,9 @@ About Me
 
 ### Follow Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
-![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4680C2)
-![Skype](https://img.shields.io/badge/Skype-090909?style=for-the-badge&logo=Skype&logoColor=00AFF0)
-![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=Slack&logoColor=4A154B)
-![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor=65A3BE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aslundin/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/aslundin)
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/aslundin)
+[![Facebook](https://img.shields.io/badge/facebook-090909?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/aslundin)
+[![Skype](https://img.shields.io/badge/Skype-090909?style=for-the-badge&logo=Skype&logoColor=00AFF0)](https://skype:livebobrosoft?chat)
+[![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor=65A3BE)](https://habr.com/ru/users/alexlundin/)
