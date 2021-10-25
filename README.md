@@ -1,8 +1,14 @@
 Header
 
-About Me
 
 ## I'm a beginner Software Engineer
+<hr>
+📍 I’m From Belarus (Minsk) <br>
+💻 2+ Years Experience in Web Development <br>
+📱 1+ Year Experience in Mobile Development <br>
+👨‍💻 Front-end Enthusiast & Volunteer <br>
+
+[comment]: <> (### My Projects)
 
 ### Language and Tools
 
@@ -23,3 +29,4 @@ About Me
 [![Facebook](https://img.shields.io/badge/facebook-090909?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/aslundin)
 [![Skype](https://img.shields.io/badge/Skype-090909?style=for-the-badge&logo=Skype&logoColor=00AFF0)](https://skype:livebobrosoft?chat)
 [![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor=65A3BE)](https://habr.com/ru/users/alexlundin/)
+[![Site](https://img.shields.io/badge/alexlundin.com-090909?style=for-the-badge&logo=ReactOS&logoColor=0088CC)](https://alexlundin.com/)
