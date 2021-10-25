@@ -2,7 +2,7 @@ Header
 
 
 ## I'm a beginner Software Engineer
-<hr>
+
 📍 I’m From Belarus (Minsk) <br>
 💻 2+ Years Experience in Web Development <br>
 📱 1+ Year Experience in Mobile Development <br>
