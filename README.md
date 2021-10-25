@@ -1,5 +1,5 @@
 Header
-
+###Hi all, I'm Alexandr Lundin
 
 ## I'm a beginner Software Engineer
 
@@ -27,6 +27,5 @@ Header
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/aslundin)
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/aslundin)
 [![Facebook](https://img.shields.io/badge/facebook-090909?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/aslundin)
-[![Skype](https://img.shields.io/badge/Skype-090909?style=for-the-badge&logo=Skype&logoColor=00AFF0)](https://skype:livebobrosoft?chat)
 [![Habr](https://img.shields.io/badge/Habr-090909?style=for-the-badge&logo=Habr&logoColor=65A3BE)](https://habr.com/ru/users/alexlundin/)
 [![Site](https://img.shields.io/badge/alexlundin.com-090909?style=for-the-badge&logo=ReactOS&logoColor=0088CC)](https://alexlundin.com/)
